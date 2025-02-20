@@ -1,3 +1,6 @@
+.env connect database
+DATABASE_URL="mysql://root:@localhost:3306/nextcrud"
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
